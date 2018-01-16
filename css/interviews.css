@@ -1,0 +1,13 @@
+body { font-family:Arial; font-size:12px; color:#000000; width:925px; overflow:hidden; }
+.header { background:#30486f; padding:5px 10px 7px 10px; color:#ffffff; font-size:24px; }
+.multimedia { padding:12px; float:left; }
+.more { float:left; width:318px; height:317px; overflow-y:scroll; padding:10px 10px 0 0; }
+.more li { padding:15px 0; border-bottom:1px dotted #333333; }
+.more li span { font-size:14px; font-weight:bold;}
+.more a { color:#000000; }
+.more a:hover { text-decoration:none; }
+.text { border:1px solid #d7d7d7; padding:12px; margin:12px;  font-size:13px; height:200px; overflow-y:scroll; }
+.text p { margin-bottom:1em; }
+
+.clear { clear:both; }
+

@@ -1,0 +1,354 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from healthexperiences.ca/en/index.aspx?slide=2 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Jul 2017 16:34:00 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head><title>
+	Health Experiences
+</title><link href="../css/reset.css" type="text/css" rel="stylesheet" /><link href="../css/home.css" type="text/css" rel="stylesheet" /><link href="../css/slideshows.css" rel="stylesheet" type="text/css" /><link href="../css/shadowpopup.css" type="text/css" rel="stylesheet" />
+<style>
+						.slide4table td { padding:15px; vertical-align:middle; }
+						.slide4table h1 { margin-bottom:15px; }
+						.slide4table a { font-size:15px; color:#ffffff; }
+						.slide4table p { margin:0.5em 0; }
+					</style>
+	<script language="javascript" type="text/javascript" src="../js/jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/jquery.cycle.all.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/jquery.easing.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/shadowpopup.js"></script>
+	<script language="javascript" type="text/javascript" src="../js/functions.js"></script>
+	<script type="text/javascript"> 
+		$(function() {
+			var $video1 = "http://www.youtube.com/embed/E2o7spMAXWM?rel=0&amp;wmode=opaque";
+			var $video2 = "http://www.youtube.com/embed/aow12_kYKN8?rel=0&amp;wmode=opaque";
+			   $('#slideshow_1').cycle({
+					fx: 'scrollHorz',      
+					easing: 'easeOutExpo',
+					speed:  800,
+					timeout: 10000,
+					pager: '.ss1_wrapper .slideshow_paging',
+					prev: '.ss1_wrapper .slideshow_prev',
+					next: '.ss1_wrapper .slideshow_next',
+					cleartypeNoBg: true,
+					manualTrump:false,
+					// using the "before" function, we grab the content of the active slide and show it in our custom box overlay
+					before: function(currSlideElement, nextSlideElement) {
+						$("#video1").attr("src", ""); 
+						$("#video2").attr("src", "");
+						var data = $('.data', $(nextSlideElement)).html();
+						$('.ss1_wrapper .slideshow_box .data').fadeOut(400, function(){
+							$('.ss1_wrapper .slideshow_box .data').remove();
+							$('<div class="data">'+data+'</div>').hide().appendTo('.ss1_wrapper .slideshow_box').fadeIn(500);
+
+						});
+					},
+					after: function()
+					{
+						$("#video1").attr("src", $video1); 
+						$("#video2").attr("src", $video2);
+					}
+				});
+				 
+
+					
+				// not using the 'pause' option. instead make the slideshow pause when the mouse is over the whole wrapper
+				$('.ss1_wrapper').mouseenter(function(){
+					$('#slideshow_1').cycle('pause');
+				}).mouseleave(function(){
+					//$('#slideshow_1').cycle('resume');
+				});
+			 
+				
+				
+			});
+	
+		function toggleTab() {
+					if($(".tabOn").css("display") == "block")
+					{
+						$(".tabOn").css("display","none")
+						$(".tabOff").css("display","block")
+					}
+					else
+					{
+						$(".tabOn").css("display","block")
+						$(".tabOff").css("display","none")
+					}
+					
+				}
+		
+		$(function() {
+			if($(location).attr('href').indexOf('?slide=') != -1)
+			{
+				url = $(location).attr('href');
+				theIndex = $(location).attr('href').indexOf('?slide=');
+				theLength = $(location).attr('href').length;
+				theSlide = parseFloat(url.substr(theIndex+7, theLength));
+				$('#slideshow_1').cycle(theSlide); 
+			}
+		});
+	</script>
+	<script language="javascript" type="text/javascript" src="../js/tracking.js"></script>
+	<style>
+		#triangle1 { display:block; }
+		#mainHome { background:url(images/menu/home_o.png) no-repeat; }
+	</style>
+
+</head>
+<body>
+	<form name="aspnetForm" method="post" action="http://healthexperiences.ca/en/index.aspx?slide=2" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY3MzcxNjEyNWRk4Yzdq8DG7l1RsktSF4jSa8o1Bmo=" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FE4EB332" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKz45eRAgLMttqlDAKCpe23AdVEbYYjoqhuLGJ5+qCGnBtt6b4H" />
+</div>
+<div class="bannerContainer">
+
+
+	
+			
+		
+		
+		
+		<ul class="mainNav">
+		<li class="mainNavItem nobg"><a id="mainHome" class="mainNavA" href="index.html"></a> <div class="triangle" id="triangle1"><img src="images/triangle.png" /></div></li>
+		<li class="mainNavItem" onmouseover="swapDisplay('dropdown2')" onmouseout="swapDisplay('dropdown2')">
+			<a id="mainModules" class="mainNavA" href="caregiving/index.html"></a>
+			<div class="dropdown" id="dropdown2" style="display:none;">
+				<div class="dropTop"></div>
+				<ul class="dropContent"> 
+					<li class="dropItem" style="background:none;"><a class="dropA" href="caregiving/index.html">Family Caregiving</a></li>
+					<li class="dropItem" style="background:none;"><a class="dropA" href="breast_cancer/index.html">Breast Cancer</a></li>
+				</ul>
+				<div class="dropBot"></div>
+			</div>
+			
+		</li>
+		<li class="mainNavItem" onmouseover="swapDisplay('dropdown1')" onmouseout="swapDisplay('dropdown1')">
+			<a id="mainAbout" class="mainNavA" href="about.html"></a> 
+
+			<div class="dropdown" id="dropdown1" style="display:none;">
+				<div class="dropTop"></div>
+				<ul class="dropContent"> 
+					<li class="dropItem"><a class="dropA" href="about.html">Overview</a></li>
+					<li class="dropItem"><a class="dropA" href="about_methodology.html">Methodology</a></li>
+					<li class="dropItem"><a class="dropA" href="about_team.html">Meet Our Team</a></li>
+					<li class="dropItem"><a class="dropA" href="about_partners.html">International Partners</a></li>			
+				</ul>
+				<div class="dropBot"></div>
+			</div>
+			
+
+		
+			
+		</li>
+		<li class="mainNavItem"><a id="mainContact" class="mainNavA" href="contact.html"></a> <div class="triangle" id="triangle4"><img src="images/triangle.png" /></div></li>
+		<li class="mainNavItem nobg"><input type="submit" name="main_nav$btnSearch" value="" id="main_nav_btnSearch" class="searchBt" /><input name="main_nav$txtSearchBox" type="text" id="main_nav_txtSearchBox" class="search" /></li>
+	</ul>
+
+	<div class="logo"><a href="index.html"><img src="images/logo.png" alt="Healthexperience.ca" /></a></div>
+		
+			
+	
+		
+	
+	
+	<div class="clear"></div>
+
+</div>
+</form>
+	
+	<div class="homeContainer">
+		
+		<div class="homeContent">
+			
+			
+			
+			<div class="ss1_wrapper">
+                    <!-- our next/previous controls -->
+                    <div class="arrowPrev"><a class="slideshow_prev" href="#"><img src="images/prev.png" alt="Previous" /></a></div>
+					<div class="arrowNext"><a class="slideshow_next" href="#"><img src="images/next.png" alt="Next" /></a></div>
+                 
+                    <!-- this is where our paging numbers will be generated -->    
+                    <div class="slideshow_paging"></div>
+                 
+                    <!-- our custom box where the text of the active slide will be shown -->
+                    <div class="slideshow_box">
+                        <div class="data"></div>
+                    </div>
+                 
+                    <!-- our slideshow -->
+                    <div id="slideshow_1" class="slideshow">
+                 
+                        
+                        <!-- Slide 1 -->     
+                        <div class="slideshow_item">
+							<div class="dataContainer slide1">
+								<div class="dataContent" style="width:470px; margin-top:-170px; ">
+									<h1 style="font-size:28px;">See and hear people's real-life stories</h1><br />
+									<p style="line-height:20px;width:440px;border-bottom:1px dotted #ffffff;padding-bottom:15px;"><span style="font-weight:bold;">Experience video and audio clips of in-depth interviews with real people:</span> Healthexperiences.ca reflects Canadian's experiences of illness and health.<br />
+Healthexperiences.ca provides trusted information based on rigorous qualitative research led by experts at McGill University and St. Mary's Hospital Center, in collaboration with the University of Oxford and the UK's award-winning website <a target="_blank" href="http://www.healthtalk.org/">Healthtalk.org</a></p>
+
+					<div style="margin-top:15px;"><h2>Discover the modules :</h2>                 
+                    <ul style="padding-top:10px;">
+                    	<li style="display:block;"><a href="caregiving/index-2.html" style="width:205px;"><img style="float:left;" src="images/btLeft.png" />
+	<p class="sectionButton" style="width:190px;padding-left:7px;font-stretch: condensed;text-transform:uppercase;">Family Caregiving</p><img style="float:left;"  src="images/btRight.png" /></a><div class="clear"></div></li>
+    <li style="display:block;"><a href="breast_cancer/index-2.html"><img style="float:left;" src="images/btLeft.png" />
+	<p class="sectionButton" style="width:190px;padding-left:7px;font-stretch: condensed;text-transform:uppercase;">Breast Cancer</p><img style="float:left;"  src="images/btRight.png" /></a><div class="clear"></div></li>
+                     </ul>
+                    </div>
+									
+								</div>
+							</div>
+							<div class="data"></div>
+                        </div>
+                        
+						<!-- Slide 2 -->
+						<div class="slideshow_item">
+                      
+								<div class="dataContainer slide2">
+									
+									<div class="dataContent" style="width:950px; height:200px; margin-top:-195px;">
+										<div class="bgVideo" style="float:right;"><iframe  id="video1" width="560" height="315" src="#" frameborder="0" allowfullscreen></iframe></div>
+                                        <div style="width:370px; margin:50px 5px 5px 5px;">
+                                            <h1 style="font-size:28px;"><strong>Welcome by Susan Law</strong></h1>
+                                           <br />
+                                            <p>Susan Law, the team lead for the Health Experiences research group in Canada, speaks about the initiative and what you can expect when you visit the website. <br /><br />
+                                          </p>
+                                            <br />
+									</div>	
+									</div>
+								</div>
+								
+          
+                        </div>
+						<!-- Slide 3 -->
+						 <div class="slideshow_item">
+                      
+								<div class="dataContainer slide3">
+									
+									<div class="dataContent" style="width:950px; height:200px; margin-top:-195px;">
+                                    <div class="bgVideo" style="float:right;"><iframe id="video2"  width="560" height="315" src="#" frameborder="0" allowfullscreen></iframe></div>
+										<h1 style="font-size:28px;">Family caregiving</h1><br />
+										<div style="width:370px;"><p>
+Caring for someone close to you can be unexpected, but it is a role that many Canadians will take on at some point in their lives. Today, more than two million Canadians provide care for a family member or friend.<br />
+We interviewed 39 people about their experience of caring for someone with a chronic physical illness. Some people cared for their spouse, a parent, or friend; others cared for a son or daughter. Many were currently caring for this person; others had been bereaved.
+</p>
+										<br />
+										<p><a href="caregiving/index-2.html" style="margin-left:-3px;"><img src="images/btn_experiences.png" alt="Newsletter" border="0" /></a></p>
+										</div>
+                                    </div>
+								</div>
+								<div class="data"></div>
+          
+                        </div>
+						
+						<!-- Slide 4 -->  
+						
+						
+                        <div class="slideshow_item">
+							<div class="dataContainer">
+								<div class="dataContent" style="width:960px; margin-top:-315px; padding-top:10px;">
+									<table class="slide4table">
+										<tr>
+											<td><img src="images/icon_breastCancer.png" width="67" height="104"/></td>
+											<td>
+												<h1 style="font-size:28px;">Sharing your experiences with breast cancer</h1>
+												<a href="pdf/flyer_recruitment.pdf" target="_blank"><img src="images/btn_moreInfo.png" width="194" height="39" /></a>
+											</td>
+										</tr>
+										<tr>
+											<td><img src="images/icon_navigate.png" width="67" height="75" /></td>
+											<td>
+												<h1 style="font-size:28px;">How to use and navigate through the site</h1>
+												<a href="pdf/how_to_use_the_site.pdf" target="_blank"><img src="images/btn_moreInfo.png" width="194" height="39" /></a>
+												<br /><br /><br /><br />
+											</td>
+										</tr>
+										<tr>
+											<td><img src="images/icon_newsLetter.png" width="67" height="86" /></td>
+											<td>
+												<h1 style="font-size:28px;">Newsletters</h1>
+												<p><a href="pdf/newsletter_2013_Jan_17.pdf" target="_blank">&raquo; January 2013 Edition</a></p>
+												<p><a href="pdf/newsletter_2013_Oct_en.pdf" target="_blank">&raquo; October 2013 Edition</a></p>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</div>
+							<div class="data"></div>
+                        </div>
+                        <!-- other "slideshow_items" go here -->
+                             
+                    </div>
+                </div>
+			
+			
+			<div class="tabOn" style="display:none;">
+				<ul class="tabList">
+					<li class="tabItem tab1"><a id="tab1" class="tabA" href="about_partners.html"></a></li>
+					<li class="tabItem tab2"><a id="tab2" class="tabA" href="indexe57f.html?slide=2"></a></li>
+					<li class="tabItem tab3"><a id="tab3" class="tabA" href="about_team.html"></a></li>
+					<li class="tabItem tab_collapse"><a class="tabA" href="javascript:toggleTab(); void(0);"><img src="images/tab_collapse.png" /></a></li>
+				</ul>
+			</div>
+			<div class="tabOff" style="display:block;">
+				<a href="javascript:toggleTab(); void(0);"><img src="images/tab_off.png" /></a>
+			</div>
+		</div>
+	</div>
+	
+		
+		
+
+		
+	
+
+<div class="footerContainer">
+
+	<div class="partners">
+   		<div class="partners"><a href="http://www.hifa2015.org/" target="_blank"> <img src="../images/Hifa_org_v3.png" border="0" style="margin-right: -51px"/></a></div>
+		<div class="partnersLogo"><img src="../images/ourpartners.png" style="margin-right: -14px;" alt="Our Partners" /></div>
+		<ul class="partnersList">
+			
+			<li class="partnersItem"><a href="http://www.mcgill.ca/" target="_blank"><img src="images/mcgill.jpg" border="0" /></a></li>
+			<li class="partnersItem"><a href="http://www.stmaryshospitalfoundation.ca/en/home" target="_blank"><img src="images/stmarys.jpg" border="0" /></a></li>
+			<li class="partnersItem"><a href="http://www.smhc.qc.ca/en/" target="_blank"><img src="images/ch.jpg" border="0" /></a></li>
+		</ul>
+		
+		<a class="feedback" href="javascript:shadowPopup('',625,428, '/en/feedback.aspx?URL=http://healthexperiences.ca/en/index.aspx?slide=2'); void(0);"><img src="images/feedback.png" border="0" /></a>
+	</div>
+	<div class="footerNav">
+		
+		
+		<div class="copyright clear">
+		<!--<div>Publication date: October 2013 <p>Review date: September 2016</div> &ndash;&gt;-->
+		<br>
+        	<div>
+        		<a href="terms.html" style="color:#C20000;">Terms of Use</a> | 
+                <a href="privacy.html" style="color:#C20000;">Privacy Policy</a> |
+                <a href="disclaimer.html" style="color:#C20000;">Disclaimer</a>  |
+               	
+				
+					<a href="../fr/indexe57f.html?slide=2" style="color:#C20000;">Version Française</a>
+				
+            </div> 
+            
+             <p>Copyright © healthexperiences 2017. All rights reserved.</p>
+         </div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+
+</body>
+
+<!-- Mirrored from healthexperiences.ca/en/index.aspx?slide=2 by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Jul 2017 16:34:00 GMT -->
+</html>

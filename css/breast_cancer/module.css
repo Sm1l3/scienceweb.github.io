@@ -1,0 +1,166 @@
+html { height:100%; }
+body { height:100%; padding:0; margin:0; min-width:950px;  }
+strong { font-weight:bold; }
+
+.bannerContainer { background:url(../../en/images/header_bg.jpg) repeat-x; height:85px; width:100%; }
+.banner { width:950px; margin:0 auto;  }
+.logo { float:left; padding:20px 0 0 30px;}
+
+.moduleContainer {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -81px;
+	min-width:950px; width:100%; background:#2B5C56 url(../../en/images/bg/bg1_bc.jpg) no-repeat top center;  }
+	
+.moduleContent { width:850px; padding:15px 0 30px 0; margin:0 auto; }
+.bg1 { background:#45568d url(../../en/images/bg/bg1.jpg) no-repeat center; width:100%; height:100%; }
+.bg2 { background:url(../../en/images/bg/bg2.jpg) no-repeat center; width:100%; height:100%; }
+
+.arrowPrev { position:absolute; left:0; top:50%; margin-top:-35px; z-index:9999; }
+.arrowNext { position:absolute; right:0; top:50%; margin-top:-35px; z-index:9998;}
+
+.slide1 { background:url(../../en/images/bg/slide3_img.png) no-repeat center right; }
+.dataContent, .data { top:50%; position:absolute; }
+
+.bgVideo { background:url(../../en/images/bg/pano_video.png) no-repeat ; padding:12px 15px; }
+
+.moduleContent h1 { color:#ffffff; font-size:35px; font-family:Arial; font-weight:normal; margin-bottom:0.5em;}
+.moduleContent h2 { color:#82d9fe; font-size:25px; font-family:Arial; font-weight:normal; margin-bottom:0.5em;}
+.moduleContent p { color:#ffffff; font-size:16px; font-family:Arial; line-height:1.1em; }
+.moduleContent a { color:#f6ff00; text-decoration:none; font-family:Arial; }
+.moduleContent a:hover { text-decoration:underline; }
+
+.videoList { background:url(../../en/images/caregiving/black.png); border-radius:8px; width:223px; padding:3px 5px; margin:5px 0; }
+.videoList li { float:left; margin:3px 5px 0 11px; }
+.videoList img { position:relative; top:2px; }
+.videoList a {font-family:Arial; font-size:13px;}
+.videoList a:hover {font-family:Arial; font-size:13px; color:#ffffff}
+
+.banner { width:950px; margin:0 auto; height:85px; }
+.triangle { text-align:center; margin:33px 0 0 0; display:none; }
+
+h2 a { color:#B9E3BF !important;}
+h2 a:hover { color:#ffffff !important;}
+
+
+.clear { clear:both; }
+
+.tabOn { background:url(../../en/images/tab_on.png) no-repeat top left; width:1000px; height:149px; position:absolute; left:0; bottom:125px; z-index:10000; }
+.tabOff { position:absolute; left:0; bottom:125px; z-index:10000; }
+
+.tabItem { float:left; text-align:center; }
+.tab1 { padding:43px 10px 0 10px; width:296px; }
+.tab2 { padding:37px 10px 0 10px; width:298px; }
+.tab3 { padding:36px 10px 0 10px; width:298px; }
+.tab_collapse { padding:20px 5px 0 5px; }
+.nobg { background:none; }
+.search { background:url(../../en/images/search.png) no-repeat; border:0; width:167px; height:24px; padding:0 40px 0 10px; margin:-2px 0 0 0;}
+
+
+
+#tab1 { background:url(../../en/images/tab1.png) no-repeat; display:block; width:290px; height:79px; }
+#tab2 { background:url(../../en/images/tab2.png) no-repeat; display:block; width:245px; height:96px; }
+#tab3 { background:url(../../en/images/tab3.png) no-repeat; display:block; width:287px; height:89px; }
+
+#tab1:hover { background:url(../../en/images/tab1_o.png) no-repeat; }
+#tab2:hover { background:url(../../en/images/tab2_o.png) no-repeat; }
+#tab3:hover { background:url(../../en/images/tab3_o.png) no-repeat; }
+
+
+#tabfr1 { background:url(../../fr/images/tab1.png) no-repeat; display:block; width:290px; height:79px; }
+#tabfr2 { background:url(../../fr/images/tab2.png) no-repeat; display:block; width:245px; height:96px; }
+#tabfr3 { background:url(../../fr/images/tab3.png) no-repeat; display:block; width:287px; height:89px; }
+
+#tabfr1:hover { background:url(../../fr/images/tab1_o.png) no-repeat; }
+#tabfr2:hover { background:url(../../fr/images/tab2_o.png) no-repeat; }
+#tabfr3:hover { background:url(../../fr/images/tab3_o.png) no-repeat; }
+
+.breadcrumbs { float:right; font-family:Arial; font-size:12px; color:#ffffff; text-transform:uppercase; }
+.searchBt{ border:0; background:none; margin:0 0 0 180px; padding:0; display:block; width:20px; height:20px; cursor:pointer; position:absolute; z-index:15000;}
+
+.moduleTopics li { float:left; padding:0 20px; border-right:1px dotted #ffffff; width:240px; }
+
+.topicsList { float:left; width:240px; margin-top:20px; }
+.topicsList li { padding:15px 0; border-bottom:1px dotted #abbed4; text-indent: -1.3em; padding-left: 1.3em; }
+.topicsList li a { font-family:Arial; font-size:20px; color:#B9E3BF; }
+.topicsList li a:hover { text-decoration:none; }
+
+.topicContent { padding:5px 20px; background:#ffffff; border-radius:10px; float:left; width:520px; margin:0 0 0 40px;  }
+.topicContent li { padding:15px 0 14px 0; border-bottom:1px dotted #6e6e77; }
+.topicContent h3{ font-family:Arial; font-size:18px; color:#353541; }
+.topicContent span { font-family:Arial; font-size:13px; color:#595959; }
+.topicContent a { font-family:Arial !important; font-size:18px !important; color:#353541 !important;}
+
+.topicArrow { position:absolute; margin:-10px 0 0 240px; }
+
+.caregivingLinks { background:url(../../en/images/breast_cancer/links.png) no-repeat; width:491px; height:432px; margin:50px auto;  }
+.linkBubble {text-align:right;  padding:8px 10px; background:url(../../en/images/caregiving/linksBg.png) repeat; border-radius:10px;  position:absolute; }
+.linkBubble p { font-family:Arial; font-size:18px !important; color:#B9E3BF !important; margin:0 0 3px 0; }
+.linkBubble a { font-family:Arial; font-size:10px; color:#ffffff; text-transform:uppercase; text-align:right; }
+
+.peopleItem { float:left; border-bottom:1px dotted #ffffff; padding:20px 7px;  }
+.peopleDiv { background:#ffffff; padding:7px; width:254px; height:107px; }
+.peopleImg { float:left; margin:0 10px 0 0; }
+.peopleDescription { float:left; width:144px; }
+.peopleHR { border-bottom:1px dotted #353541; margin:10px 0;  }
+.peopleName { font-family:Arial; font-size:16px; font-weight:bold; color:#353541; margin:0 0 3px 0; }
+.peopleTime { font-family:Arial; font-size:13px; font-style:italic; color:#595959; margin:0 0 12px 0; }
+.peopleText { font-family:Arial; font-size:12px; color:#353541; }
+a.peopleA { font-family:Arial; font-size:10px; color:#ff1111; text-transform:uppercase;  }
+
+.formLabel { font-family:Arial; font-size:14px; color:#ffffff; margin:0 10px;  }
+.peopleForm select { margin:0 30px 0 0; }
+.peopleForm { background:url(../../en/images/caregiving/linksBg.png) repeat; padding:8px 10px; border-radius:5px; }
+
+.formLabel_cancer { font-family:Arial; font-size:14px; color:#ffffff; margin:0 5px;  }
+.peopleForm_cancer select { margin:0 5px 0 0; }
+.peopleForm_cancer { background:url(../../en/images/caregiving/linksBg.png) repeat; padding:4px 5px; border-radius:5px; }
+
+.header {
+    background: none repeat scroll 0 0 #30486F;
+    color: #FFFFFF;
+    font-size: 24px;
+    padding: 5px 10px 7px;
+	font-family:Tahoma;
+}
+
+.publishReview{
+
+	position: relative;
+	margin-top: 4%;
+	margin-left: 79%;
+}
+
+.publishReview p{
+	font-size: 11px;
+	line-height: 1;
+}
+
+
+.topicPublishFR p {
+	font-size: 11px;
+	line-height: 1;
+	position: relative;
+	left: 79%;
+	top: 8px;
+}
+.topicPublishEN p {
+	font-size: 11px;
+	line-height: 1;
+	position: relative;
+	left: 82%;
+	top: 8px;
+}
+.goBackModuleEN{
+	text-align:center;
+	margin-top:30px;
+	position: relative;
+	margin-left: 67%;
+}
+.goBackModuleFR{
+	text-align:center;
+	margin-top:30px;
+	position: relative;
+	margin-left: 75%;
+}

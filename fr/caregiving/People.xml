@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+	<person name="Rachel">
+		<picture>/fr/caregiving/profile/100x100/01_Rachel.jpg</picture>
+		<age>27</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>13</time>
+		<description>prend soin de sa mère</description>
+		<profile>/fr/caregiving/profile/rachel.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/6_diagnosis_rachel.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/7_negative_rachel.html">Émotions et sentiments complexess</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/2_cr_behaviour_rachel.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/10_impact_health_rachel.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/12_growth_rachel.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/9_family_and_friends_rachel.html">Soutien de la part de la famille et des amis</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/1_balancing_rachel.html">Tenter d'établir un juste équilibre</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/6_balancing_rachel.html">Tenter d'établir un juste équilibre</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/2_caregiving_is_rachel.html">Que signifie être proche aidant?</interview>
+		</interviews>
+	</person>
+<person name="Richard">
+		<picture>/fr/caregiving/profile/100x100/02_Richard.jpg</picture>
+		<age>66</age>
+		<gender>Male</gender>
+		<recipient>Partner</recipient>
+		<time>29</time>
+		<description>a pris soin de son épouse </description>
+		<profile>/fr/caregiving/profile/richard.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/11_adapting_roles_richard.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/9_advice_friends_richard.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/2_financial_richard.html">Impact financier</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/5_society_richard.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/3_holidays_richard.html">Voyage, vacances et répit</interview>
+		</interviews>
+	</person>
+	<person name="Donovan">
+		<picture>/fr/caregiving/profile/100x100/03_Donovan.jpg</picture>
+		<age>77</age>
+		<gender>Male</gender>
+		<recipient>Partner</recipient>
+		<time>17</time>
+		<description>prend soin de son épouse</description>
+		<profile>/fr/caregiving/profile/donovan.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/1_advice_donovan.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/4_selfcare_donovan.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/10_financial_donovan.html">Impact financier</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/12_homecare_donovan.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/3_hospitals_donovan.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/4_Resources_donovan.html">Ressources</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/7_future_donovan.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/1_adapting_donovan.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Sheni">
+		<picture>/fr/caregiving/profile/100x100/04_Sheni.jpg</picture>
+		<age>56</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>9</time>
+		<description>prend soin de son époux et son fils</description>
+		<profile>/fr/caregiving/profile/sheni.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/4_advice_friends_sheni.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/8_system_issues_sheni.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/11_homecare_sheni.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/5_impact_on_prof_sheni.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/8_impact_on_prof_sheni.html">Impact sur la vie professionnelle et la carrière (2)</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/8_interactions_sheni.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/6_legal_issues_sheni.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/4_social_impact_sheni.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/7_family_and_friends_sheni.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/5_balancing_sheni.html">Tenter d'établir un juste équilibre</interview>
+		</interviews>
+	</person>
+	<person name="Christiane">
+		<picture>/fr/caregiving/profile/100x100/05_Christiane.jpg</picture>
+		<age>61</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>10</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/christiane.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/6_advice_christiane.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/4_cr_behaviour_christiane.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/5_financial_christiane.html">Impact financier</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/7_homecare_christiane.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/2_hospitals_christiane.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/5_hospitals_christiane.html">Hôpitaux et établissements de soins (2)</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/12_interactions_christiane.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/3_navigating_christiane.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/10_CGTasks_Christiane.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/9_Resources_christiane.html">Ressources</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/7_social_impact_christiane.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/11_family_and_friends_christiane.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/5_future_christiane.html">L'avenir et la prestation de soins</interview>	
+		</interviews>
+	</person>
+	<person name="Amazing Alyce">
+		<picture>/fr/caregiving/profile/100x100/06_Alyce.jpg</picture>
+		<age>47</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>19</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/alyce.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/3_adapting_roles_amazing_alyce.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/9_cr_behaviour_alyce.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/5_impact_health_alyce.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/8_impact_health_alyce.html">Impact sur la santé (2)</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/4_legal_issues_amazing_alyce.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/8_CGTasks_Alyce.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/7_balancing_alyce.html">Tenter d'établir un juste équilibre</interview>
+		</interviews>
+	</person>
+	<person name="Lillian et Michael">
+		<picture>/fr/caregiving/profile/100x100/07_Lillian_Michael.jpg</picture>
+		<age>55</age>
+		<gender>Male and Female</gender>
+		<recipient>Child</recipient>
+		<time>17 and 18</time>
+		<description>prennent soin de leur fils</description>
+		<profile>/fr/caregiving/profile/lilian_michael.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/7_advice_Lillian_Michael.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/6_advice_profs_lilliane_michael.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/12_advice_profs_lillian_michael.html">Conseils aux professionnels et à la société (2)</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/9_financial_liliane_michael.html">Impact financier</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/12_hospitals_lilian_michael.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/12_impact_on_prof_lilian_michael.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/6_social_impact_lillian_michael.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/1_social_impact_lilian_michael.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/12_family_and_friends_lilian_michael.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/6_holidays_lilian_michael.html">Voyage, vacances et répit</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/7_adapting_lilian_michael.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Shoshana">
+		<picture>/fr/caregiving/profile/100x100/images/00_text.jpg</picture>
+		<age>54</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>30</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/shoshana.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/7_advice_friends_shoshana_text.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/9_impact_health_shoshana_text.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/8_legal_issues_Shoshana_text.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/1_CGTasks_Shoshana_text.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/3_social_impact_shoshana_text.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/1_family_and_friends_shoshana_text.html">Soutien de la part de la famille et des amiss</interview>
+			
+		</interviews>
+	</person>
+	<person name="Rowdyneko">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>61</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>3</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/rowdyneko.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/2_adapting_roles deidre audio.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/5_cr_behaviour_deirdre_audio.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/2_system_issues_deidre_audio.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/9_system_issues_deidre_audio.html">Problèmes du système de santé (2)</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/4_hospitals_deidre_audio.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/6_hospitals_deidre_audio.html">Hôpitaux et établissements de soins (2)</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/4_interactions_deidre_audio.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/2_society_deidre_audio.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/4_family_and_friends_deirdre_audio.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/5_holidays_deidre_audio.html">Voyage, vacances et répit</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/4_CGTasks_Dierdre_audio.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/3_why_deidre_audio.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+		</interviews>
+	</person>
+	<person name="Matsonia">
+		<picture>/fr/caregiving/profile/100x100/10_Linda.jpg</picture>
+		<age>59</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>12</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/matsonia.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/9_adapting_roles_linda.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/8_advice_Linda.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/9_advice_Linda.html">Conseils aux autres proches aidants (2)</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/8_diagnosis_linda.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/11_cr_behaviour_linda.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/12_navigating_linda.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/8_growth_linda.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/2_future_linda.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/3_adapting_linda.html">L'évolution des soins au fil du temps</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/5_adapting_linda.html">L'évolution des soins au fil du temps (2)</interview>
+		</interviews>
+	</person>
+	<person name="Drew">
+		<picture>/fr/caregiving/profile/100x100/11_Drew.jpg</picture>
+		<age>38</age>
+		<gender>Male</gender>
+		<recipient>Parent</recipient>
+		<time>33</time>
+		<description>prend soin de sa mère</description>
+		<profile>/fr/caregiving/profile/drew.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/2_advice_friends_drew.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/7_diagnosis_drew.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/6_financial_drew.html">Impact financier</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/11_hospitals_drew.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/1_legal_issues_drew.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/9_navigating_drew.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/1_society_drew.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/3_family_and_friends_drew.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/11_future_drew.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/2_balancing_drew.html">Tenter d'établir un juste équilibre</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/12_balancing_drew.html">Tenter d'établir un juste équilibre (2)</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/9_why_drew.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/2_adapting_drew.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Mr et Mrs Smith">
+		<picture>/fr/caregiving/profile/100x100/images/00_text.jpg</picture>
+		<age>62 et 64</age>
+		<gender>Male and Female</gender>
+		<recipient>Parent</recipient>
+		<time>10</time>
+		<description>prennent soin de leur mère</description>
+		<profile>/fr/caregiving/profile/smith.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/7_advice_profs_smiths_text.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/9_advice_profs_smiths_text.html">Conseils aux professionnels et à la société (2)</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/9_selfcare_smith_text.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/1_navigating_smiths_text.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/2_Resources_smiths_text.html">Ressources</interview>
+		</interviews>
+	</person>
+	<person name="Rhyannan">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>59</age>
+		<gender>Female</gender>
+		<recipient>Friend</recipient>
+		<time>2</time>
+		<description>prend soin de son ami</description>
+		<profile>/fr/caregiving/profile/ryhannan.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/2_legal_issues_rhyannan_audio.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/9_legal_issues_rhyannan_audio.html">Questions juridiques (2)</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/3_growth_rhyannan_audio.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/12_society_rhyannan_audio.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/5_why_rhyannan_audio.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+		</interviews>
+	</person>
+	<person name="Barbara">
+		<picture>/fr/caregiving/profile/100x100/14_Barbara.jpg</picture>
+		<age>62</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>40</time>
+		<description>a pris soin de plusieurs personnes</description>
+		<profile>/fr/caregiving/profile/barbara.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/6_adapting_roles_barb.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/1_advice_profs_barb.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/3_advice_profs_barb.html">Conseils aux professionnels et à la société (2)</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/2_diagnosis_barb.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/10_selfcare_barb.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/11_interactions_barb.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/8_navigating_barb.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/9_growth_barb.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/8_Resources_barb.html">Ressources</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/8_society_barb.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/8_future_barb.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/7_caregiving_is_barb.html">Que signifie être proche aidant?</interview>
+		</interviews>
+	</person>
+	<person name="Joanne">
+		<picture>/fr/caregiving/profile/100x100/16_Joanne.jpg</picture>
+		<age>54</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>11</time>
+		<description>prend soin de sa mère</description>
+		<profile>/fr/caregiving/profile/joanne.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/5_advice_friends_joanne.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/2_advice_joanne.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/1_selfcare_joanne.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/8_homecare_joanne.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/2_impact_on_prof_joanne.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/4_growth_joanne.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/7_CGTasks_Joanne.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/7_holidays joanne.html">Voyage, vacances et répit</interview>
+		</interviews>
+	</person>
+	<person name="Marc">
+		<picture>/fr/caregiving/profile/100x100/18_Marc.jpg</picture>
+		<age>62</age>
+		<gender>Male</gender>
+		<recipient>Friend</recipient>
+		<time>30</time>
+		<description>prend soin de son ami</description>
+		<profile>/fr/caregiving/profile/marc.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/11_selfcare_marc.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/12_cr_behaviour_marc.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/12_financial_marc.html">Impact financier</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/3_impact_health_marc.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/5_navigating_marc.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/11_CGTasks_Marc.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/1_Resources_marc.html">Ressources</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/9_future_marc.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/1_holidays_marc.html">Voyage, vacances et répit</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/8_balancing_marc.html">Tenter d'établir un juste équilibre</interview>
+		</interviews>
+	</person>
+	<person name="Marlyn">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>67</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>12</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/marlyn.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/10_advice_Marlyn_text.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/9_negative_marlyn_audio.html">Émotions et sentiments complexess</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/2_impact_health_marlyn_audio.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/1_future_marlyn_text.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/3_CGTasks_Marlyn_audio.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/6_CGTasks_Marlyn_audio.html">Fournir du soutien (2)</interview>
+			
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/3_Resources_marlyn_audio.html">Ressources</interview>
+			
+		</interviews>
+	</person>
+	<person name="Fernanda">
+		<picture>/fr/caregiving/profile/100x100/20_Fernanda.jpg</picture>
+		<age>49</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>12</time>
+		<description>prend soin de sa mère</description>
+		<profile>/fr/caregiving/profile/fernanda.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/3_selfcare_fernanda.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/2_negative_ fernanda.html">Émotions et sentiments complexess</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/8_negative_fernanda.html">Émotions et sentiments complexess (2)</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/1_cr_behaviour_fernanda.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/9_hospitals_fernanda.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/11_impact_health_fernanda.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/10_impact_on_prof_fernanda.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/5_CGTasks_Fernanda.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/3_society_fernanda.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/8_holidays fernanda.html">Voyage, vacances et répit</interview>
+		</interviews>
+	</person>
+	<person name="Anne">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>62</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>25</time>
+		<description>prend soin de son époux et sa fille </description>
+		<profile>/fr/caregiving/profile/anne.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/8_adapting_roles_anne_audio.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/4_advice_profs_anne_audio.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/8_advice_profs_anne_audio.html">Conseils aux professionnels et à la société (2)</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/8_selfcare_anne_audio.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/6_impact_health_anne_audio.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/10_interactions_anne_audio.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/5_family_and_friends_anne_audio.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/10_future_anne_audio.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/4_why_anne_audio.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/5_caregiving_is_anne_audio.html">Que signifie être proche aidant?</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/4_adapting_anne_audio.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Joseph et Marie">
+		<picture>/fr/caregiving/profile/100x100/images/00_text.jpg</picture>
+		<age>60</age>
+		<gender>Male</gender>
+		<recipient>Partner</recipient>
+		<time>4</time>
+		<description>prend soin de son épouse</description>
+		<profile>/fr/caregiving/profile/joseph_marie.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/12_adapting_roles_joseph.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/4_advice_Joseph_text.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/3_negative_ joseph_text.html">Émotions et sentiments complexess</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/3_impact_on_prof_Joseph_text.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/9_impact_on_prof_Joseph_text.html">Impact sur la vie professionnelle et la carrière (2)</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/10_balancing_joseph_text.html">Tenter d'établir un juste équilibre</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/6_why_joseph_text.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+		</interviews>
+	</person>
+	<person name="Ginny">
+		<picture>/fr/caregiving/profile/100x100/23_Ginny.jpg</picture>
+		<age>56</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>4</time>
+		<description>prend soin de sa mère</description>
+		<profile>/fr/caregiving/profile/ginny.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/3_diagnosis_ginny.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/5_selfcare_ginny.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/3_system_issues_ginny.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/4_homecare_ginny.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/7_navigating_ginny.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/11_Resources_ginny.html">Ressources</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/10_society_ginny.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/10_family_and_friends_ginny.html">Soutien de la part de la famille et des amiss</interview>
+		</interviews>
+	</person>
+	<person name="David">
+		<picture>/fr/caregiving/profile/100x100/images/00_text.jpg</picture>
+		<age>68</age>
+		<gender>Male</gender>
+		<recipient>Partner</recipient>
+		<time>10</time>
+		<description>prend soin de son épouse</description>
+		<profile>/fr/caregiving/profile/david.aspx</profile>
+		<interviews>
+		<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/7_interactions_david_text.html">Interaction avec les professionnels</interview>
+		<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/6_growth_David_text.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/5_Resources_david_text.html">Ressources</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/3_balancing_david_text.html">Tenter d'établir un juste équilibre</interview>
+			
+		</interviews>
+	</person>
+	<person name="Claire">
+		<picture>/fr/caregiving/profile/100x100/25_Claire.jpg</picture>
+		<age>37</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>7</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/claire.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/8_advice_friends_claire.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/5_advice_profs_claire.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/13_advice_profs_claire.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/9_diagnosis_claire.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/9_social_impact_claire.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.20_Traveling,_holidays_and_respite/4_holidays_claire.html">Voyage, vacances et répit</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/11_balancing_claire.html">Tenter d'établir un juste équilibre</interview>
+		</interviews>
+	</person>
+	<person name="Mike">
+		<picture>/fr/caregiving/profile/100x100/26_Mike.jpg</picture>
+		<age>63</age>
+		<gender>Male</gender>
+		<recipient>Partner</recipient>
+		<time>5</time>
+		<description>prend soin de son épouse</description>
+		<profile>/fr/caregiving/profile/mike.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/1_system_issues_mike.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/7_hospitals_mike.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/3_interactions_mike.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/5_legal_issues_mike.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/11_navigating_mike.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/5_growth_mike.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/6_family_and_friends_mike.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/4_balancing_mike.html">Tenter d'établir un juste équilibre</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/3_caregiving_is_mike.html">Que signifie être proche aidant?</interview>
+		</interviews>
+	</person>
+	<person name="Daphne">
+		<picture>/fr/caregiving/profile/100x100/27_Daphne.jpg</picture>
+		<age>60</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>2</time>
+		<description>a pris soin de ses parents</description>
+		<profile>/fr/caregiving/profile/daphne.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/10_diagnosis_daphne.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/10_hospitals_daphne.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.16_Legal_issues/7_legal_issues_daphne.html">Questions juridiques</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/1_growth_daphne.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/10_adapting_daphne.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Kai">
+		<picture>/fr/caregiving/profile/100x100/28_Kai.jpg</picture>
+		<age>28</age>
+		<gender>Male</gender>
+		<recipient>Parent</recipient>
+		<time>12</time>
+		<description> a pris soin de son père</description>
+		<profile>/fr/caregiving/profile/kai.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/11_advice_profs_kai.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/1_diagnosis_kai.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/5_homecare_kai.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/1_impact_health_kai.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/4_impact_on_prof_kai.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/11_impact_on_prof_kai.html">Impact sur la vie professionnelle et la carrière (2)</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/2_interactions_kai.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/14_interactions_kai.html">Interaction avec les professionnels (2)</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/13_growth_kai.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.06_Providing_support/2_CGTasks_Kai.html">Fournir du soutien</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/7_Resources_kai.html">Ressources</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/7_society_kai.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/11_society_kai.html">Naviguer dans le système (2)</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/9_adapting_kai.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Snoopey">
+		<picture>/fr/caregiving/profile/100x100/29_Snoopy.jpg</picture>
+		<age>23</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>7</time>
+		<description>prend soin de sa mère</description>
+		<profile>/fr/caregiving/profile/snoopey.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/4_financial_snoopey.html">Impact financier</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/2_family_and_friends_snoopey.html">Soutien de la part de la famille et des amiss</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/8_hospitals_snoopy.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/4_society_snoopy.html">Naviguer dans le système</interview>
+		</interviews>
+	</person>
+	<person name="Susan">
+		<picture>/fr/caregiving/profile/100x100/30_Susan.jpg</picture>
+		<age>58</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>13</time>
+		<description>prend soin de sa mère et a pris soin de son père</description>
+		<profile>/fr/caregiving/profile/susan.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/3_advice_susan.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/10_advice_profs_susan.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/6_navigating_susan.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/1_why_susan.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/1_caregiving_is_susan.html">Que signifie être proche aidant?</interview>
+		</interviews>
+	</person>
+	<person name="Hélène">
+		<picture>/fr/caregiving/profile/100x100/31_Helene.jpg</picture>
+		<age>58</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>51</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/helene.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/5_advice_helene.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/6_selfcare_helene.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/7_financial_helene.html">Impact financier</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/7_system_issues_helene.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/6_impact_on_prof_helene.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/13_interactions_helene.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/6_future_helene.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/8_adapting_helene.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Shayna">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>66</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>36</time>
+		<description>a pris soin de son époux</description>
+		<profile>/fr/caregiving/profile/shayna.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/4_adapting_roles_shayna_audio.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/3_advice_friends_shayna_audio.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/5_diagnosis_shayna_audio.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/7_cr_behaviour_shayna_audio.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/4_system_issues_shayna_audio.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/7_impact_on_prof_shayna_audio.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.10_Interaction_with_professionals/5_interactions_shayna_audio.html">Interaction avec les professionnels</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.09_Resources/12_Resources_shayna_audio.html">Ressources</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/5_social_impact_shayna_audio.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/10_social_impact_shayna_audio.html">Impact social et changement de style de vie (2)</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/6_society_shayna_audio.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/7_why_shayna_audio.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/4_caregiving_is_shayna_audio.html">Que signifie être proche aidant?</interview>
+		</interviews>
+	</person>
+	<person name="Madhu">
+		<picture>/fr/caregiving/profile/100x100/33_Madhu.jpg</picture>
+		<age>72</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>30</time>
+		<description>prend soin de son époux et a pris soin de sa mère </description>
+		<profile>/fr/caregiving/profile/madhu.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/6_negative_ madhu.html">Émotions et sentiments complexess</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/6_system_issues_madhu.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/7_growth_madhu.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/10_growth_madhu.html">Croissance personnelle et évolution (2)</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/8_social_impact_madhu.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/4_future_madhu.html">L'avenir et la prestation de soins</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.14_Trying_to_find_the_right_balance/9_balancing_madhu.html">Tenter d'établir un juste équilibre</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/6_adapting_madhu_text.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Inez">
+		<picture>/fr/caregiving/profile/100x100/35_Inez.jpg</picture>
+		<age>81</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>8</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/inez.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.27_Advice_for_other_caregivers/11_advice_Inez.html">Conseils aux autres proches aidants</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/7_selfcare_inez.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.11_System_issues/5_system_issues_inez.html">Problèmes du système de santé</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/2_why_inez.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.02_What_is_it_like_to_be_a_caregiver/6_caregiving_is_inez.html">Que signifie être proche aidant?</interview>\
+		</interviews>
+	</person>
+	<person name="Val">
+		<picture>/fr/caregiving/profile/100x100/36_Val.jpg</picture>
+		<age>58</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>6</time>
+		<description>a pris soin de son époux</description>
+		<profile>/fr/caregiving/profile/val.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.01_Becoming_a_caregiver/4_diagnosis_val.html">Devenir proche aidant</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.18_Challenging_emotions_and_feelings/1_negative_val.html">Émotions et sentiments complexess</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/6_cr_behaviour_val.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/10_homecare_val.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/4_impact_health_val.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.03_When_care_changes_over_time/11_adapting_val.html">L'évolution des soins au fil du temps</interview>
+		</interviews>
+	</person>
+	<person name="Elaine">
+		<picture>/fr/caregiving/profile/100x100/37_Elaine.jpg</picture>
+		<age>71</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>22</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/elaine.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/1_adapting_roles_elaine.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/7_adapting_roles_elaine.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints (2)</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/10_adapting_roles_elaine.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints (3)</interview>
+			<interview url="/fr/caregiving/advice/interviews/6.29_Advice_for_family_and_friends/1_advice_friends_elaine.html">Conseils aux amis et à la famille</interview>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.19_Effects_of_care_recipients_behaviour/3_cr_behaviour_elaine.html">Les effets du comportement des bénéficiaires de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.25_Financial_impact/1_financial_elaine.html">Impact financier</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/6_homecare_elaine.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/2_growth_elaine.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/12_social_impact_elaine.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.08_Society_and_caregiving/9_society_elaine.html">Naviguer dans le système</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/2.05_Uncovering_why_and_how_caregivers_care/8_why_elaine.html">Découvrir pourquoi et comment les proches aidants dispensent des soins</interview>
+		</interviews>
+	</person>
+	<person name="Lorna">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>68</age>
+		<gender>Female</gender>
+		<recipient>Partner</recipient>
+		<time>12</time>
+		<description>prend soin de son époux</description>
+		<profile>/fr/caregiving/profile/lorna.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.17_Adapting_to_new_roles_and_key_issues_for_spouses/5_adapting_roles_lorna_audio.html">S'adapter aux nouveaux rôles et les principaux enjeux pour les conjoints</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/2_social_impact_lorna_audio.html">Impact social et changement de style de vie</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.21_Future_and_caregiving/3_future_lorna_audio.html">L'avenir et la prestation de soins</interview>
+		</interviews>
+	</person>
+	<person name="Jacques">
+		<picture>/fr/caregiving/profile/100x100/39_Jacques.jpg</picture>
+		<age>88</age>
+		<gender>Male</gender>
+		<recipient>Child</recipient>
+		<time>57</time>
+		<description>prend soin de sa fille</description>
+		<profile>/fr/caregiving/profile/jacques.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/personal_challenges/interviews/4.15_Caring_for_yourself/2_selfcare_jacques.html">Prendre soin de soi</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/2_homecare_jacques.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.23_Growth_and_transformation/11_growth_jacques.html">Croissance personnelle et évolution</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.22_Social_impact_and_lifestyle_chages/11_social_impact_jacques.html">Impact social et changement de style de vie</interview>
+		</interviews>
+	</person>
+	<person name="Christine">
+		<picture>/fr/caregiving/profile/100x100/images/00_audio.jpg</picture>
+		<age>53</age>
+		<gender>Female</gender>
+		<recipient>Parent</recipient>
+		<time>7</time>
+		<description>a pris soin de sa mère</description>
+		<profile>/fr/caregiving/profile/christine.aspx</profile>
+		<interviews>
+			<interview url="/fr/caregiving/advice/interviews/6.28_Advice_for_professionals_and_others/2_advice_profs_christine_audio.html">Conseils aux professionnels et à la société</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.12_Home_care/3_homecare_christine_audio.html">Soins à domicile et aides familiaux résidants</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/3.13_Institutionalized_care/1_hospitals_christine_audio.html">Hôpitaux et établissements de soins</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.26_Impact_on_health/7_impact_health_christine_audio.html">Impact sur la santé</interview>
+			<interview url="/fr/caregiving/impact_on_the_caregiver/interviews/5.24_Impact_on_professional_life_and_career/1_impact_on_prof_christine_audio.html">Impact sur la vie professionnelle et la carrière</interview>
+			<interview url="/fr/caregiving/Resources_and_professional_services/interviews/2.07_Navigating_the_system/4_navigating_christine_audio.html">Société et prestation de soins</interview>
+			<interview url="/fr/caregiving/being_a_caregiver/interviews/1.04_Support_from_family_and_friends/8_family_and_friends_christine_audio.html">Soutien de la part de la famille et des amiss</interview>
+		</interviews>
+	</person>
+</people>

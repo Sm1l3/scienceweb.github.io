@@ -1,0 +1,33 @@
+ #backgroundPopup {  
+	display:none;  
+	position:fixed;  
+	height:100%;  
+	width:100%;  
+	top:0;  
+	left:0;  
+	background:#000000;  
+	border:1px solid #cecece;  
+	z-index:998;  
+} 
+
+.popupDiv { 
+	display:none;  
+	position:fixed;
+	padding:0;
+	font-size:13px; 
+	background:#ffffff;
+	z-index:999;	
+	top: 50%;
+	left: 50%;
+	color:#000000;	
+	box-shadow: 5px 5px 8px #000000;	
+	text-align:left;
+}
+
+.closeShadow {
+	width:17px;
+	height:17px;
+	position:absolute; right:0; margin:10px;
+	background:#000000;
+	background:url(../../en/images/close.png) no-repeat;
+}

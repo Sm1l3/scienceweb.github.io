@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<people>
+
+	<person name="Nadia A">
+		<picture>/en/breast_cancer/profile/100x100/01_NadiaA.jpg</picture>
+		<age>75</age>
+		<lang>English</lang>
+		<phase>In treatment</phase>
+		<time>1</time>
+		<description>Recently diagnosed</description>
+		<profile>/en/breast_cancer/profile/NadiaA.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/1_nadiaA.html">Surgery</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/4_nadiaA.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/7_nadiaA.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/9_nadiaA.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/1_nadiaA.html">How it affects family and friends</interview>
+			
+		</interviews>
+	</person>
+<person name="Donna">
+		<picture>/en/breast_cancer/profile/100x100/02_Donna.jpg</picture>
+		<age>65</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>1</time>
+		<description>1 year since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Donna.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/8_donna.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/7_donna_text.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/13_donna.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/7_donna.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/4_donna.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/1_donna.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/8_donna.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/11_donna.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/2_donna.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/7_donna.html">How it affects family and friends</interview>
+		</interviews>
+	</person>
+	<person name="Amanda">
+		<picture>/en/breast_cancer/profile/100x100/03_Amanda.jpg</picture>
+		<age>32</age>
+		<lang>English</lang>
+		<phase>In treatment</phase>
+		<time>1</time>
+		<description>Recently diagnosed</description>
+		<profile>/en/breast_cancer/profile/Amanda.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/1_amanda.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/2_amanda.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/13_amanda.html">Surgery</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/14_amanda.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/15_preserving_fertility/5_amanda.html">Preserving fertility</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/1_amanda.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/1_amanda.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/9_amanda.html">Messages to others</interview>
+			
+		</interviews>
+	</person>
+	<person name="Joanne">
+		<picture>/en/breast_cancer/profile/100x100/04_Joanne.jpg</picture>
+		<age>44</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>6</time>
+		<description>6 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Joanne.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/8_joanne.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/9_joanne_text.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/1_joanne_text.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/3_joanne_text.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/8_joanne_text.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/3_joanne_text.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/8_joanne.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/4_joanne.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/6_joanne_text.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/2_joanne_text.html">Troubling long-term effects of treatment</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/11_joanne_text.html">Troubling long-term effects of treatment</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/10_joanne_text.html">Follow-up care and the risk of recurrence</interview>
+			
+		</interviews>
+	</person>
+	<person name="Deann">
+		<picture>/en/breast_cancer/profile/100x100/05_Deann.jpg</picture>
+		<age>48</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>4</time>
+		<description>4 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Deann.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/5_deann.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/5_deann.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/9_deann.html">Reconstruction surgery</interview>
+			. <interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/3_deann.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/4_deann.html">Messages to others</interview>
+				</interviews>
+	</person>
+	<person name="Tina">
+		<picture>/en/breast_cancer/profile/100x100/06_Tina.jpg</picture>
+		<age>66</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Tina.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/7_tina.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/1_tina.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/15_tina.html">Surgery</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/2_tina.html">Talking to children about cancer</interview>
+		</interviews>
+	</person>
+
+	<person name="Jeanette">
+		<picture>/en/breast_cancer/profile/100x100/08_Jeanette.jpg</picture>
+		<age>46</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>4</time>
+		<description>4 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Jeanette.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/11_jeanette.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/4_jeanette.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/2_jeanette.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/12_jeanette.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/2_jeanette.html">Finding and sharing information</interview>
+			
+		</interviews>
+	</person>
+	<person name="Melissa">
+		<picture>/en/breast_cancer/profile/100x100/09_Melissa.jpg</picture>
+		<age>35</age>
+		<lang>English</lang>
+		<phase>Partner</phase>
+		<time>Remission</time>
+		<description>2 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Melissa.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/6_melissa.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/9_melissa.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/4_melissa.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/2_melissa.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/2_melissa.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/11_melissa.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/15_preserving_fertility/1_melissa.html">Preserving fertility</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/2_melissa.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/5_melissa.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/12_melissa.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/6_melissa.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/1_melissa.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Patricia">
+		<picture>/en/breast_cancer/profile/100x100/10_Patricia.jpg</picture>
+		<age>76</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>11</time>
+		<description>11 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Patricia.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/13_patricia.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/2_patricia.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/5_patricia.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/5_patricia.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/4_patricia.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/4_patricia.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/1_patricia.html">Physical activity and diet changes</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/8_patricia.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/8_patricia.html">Messages to others</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/5_patricia.html">Troubling long-term effects of treatment</interview>			
+		</interviews>
+	</person>
+	<person name="Iceni">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>68</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<another_phase>Recurring breast cancer</another_phase>
+		<time>18</time>
+		<description>18 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Iceni.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/7_iceni_audio.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/6_iceni_audio.html">Relating to health care professionals</interview>
+			 <interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/5_iceni_audio.html">Sexuality, femininity and intimacy</interview>
+			 <interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/8_iceni_audio.html">How it affects family and friends</interview>
+			 <interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/10_iceni_audio.html">Messages to others</interview>
+			 <interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/6_iceni_audio.html">Troubling long-term effects of treatment</interview>
+			 <interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/8_iceni_audio.html">Troubling long-term effects of treatment</interview>
+			 <interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/4_iceni_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+			</interviews>
+	</person>
+	<person name="Shelley">
+		<picture>/en/breast_cancer/profile/100x100/12_Shelley.jpg</picture>
+		<age>48</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Shelley.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/6_shelley.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/2_shelley.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/7_shelley.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/5_shelley.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/12_shelley.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/6_shelley.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/12_shelley.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/4_shelley.html">Physical activity and diet changes</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/2_shelley.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/1_shelley.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/3_shelley.html">Challenging emotions</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/1_shelley.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/4_shelley.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/23_treatment_for_lymphedemia/1_shelley.html">Treatment for lymphedema</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/10_shelley.html">Troubling long-term effects of treatment</interview>
+			</interviews>
+	</person>
+	
+	<person name="Gaye">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>57</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>7</time>
+		<description>7 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Gaye.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/16_gaye_audio.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/10_gaye_audio.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/5_gaye_audio.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/6_gaye_audio.html">Finding and sharing information</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/23_treatment_for_lymphedemia/2_gaye_audio.html">Treatment for lymphedema</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/3_gaye_audio.html">Troubling long-term effects of treatment</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/8_gaye_audio.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	
+	<person name="Debbra">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>51</age>
+		<lang>English</lang>
+		<phase>Metastatic Cancer</phase>
+		<time>7</time>
+		<description>7 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Debbra.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/3_debbra_audio.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/8_debbra_audio.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/7_debbra_audio.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/3_debbra_audio.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/11_debbra_audio.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/6_debbra_audio.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/7_debbra_audio.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/3_debbra_audio.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/5_debbra_audio.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/4_debbra_audio.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/8_debbra_audio.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/4_debbra_audio.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/14_debbra_audio.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/3_debbra_audio.html">Finding and sharing information</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/23_treatment_for_lymphedemia/3_debbra_audio.html">Treatment for lymphedema</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/8_debbra_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/9_debbra_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/12_debbra_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+		</interviews>
+	</person>
+	<person name="Lorna">
+		<picture>/en/breast_cancer/profile/100x100/images/00_text.jpg</picture>
+		<age>70</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>10</time>
+		<description>10 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Lorna.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/11_lorna_text.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/1_lorna_text.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/7_lorna_text.html">Messages to others</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/7_lorna_text.html">Troubling long-term effects of treatment</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/4_lorna_text.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Sirkka">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>63</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>7</time>
+		<description>7 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Sirrka.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/12_sirrka_audio.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/1_sirrka_audio.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/2_sirkka_audio.html">Challenging emotions</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/5_sirrka_audio.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/3_sirkka_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+		</interviews>
+	</person>
+	<person name="Julia">
+		<picture>/en/breast_cancer/profile/100x100/17_Julia.jpg</picture>
+		<age>63</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Julia.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/6_julia_audio.html">Endocrine (hormone) therapy</interview>
+			 <interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/10_julia.html">Sexuality, femininity and intimacy</interview>
+			 <interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/2_julia.html">Coping strategies</interview>
+			 <interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/5_julia.html">Positive effects on self</interview>
+			 <interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/7_julia.html">Finding and sharing information</interview>
+			 <interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/6_julia.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Samantha">
+		<picture>/en/breast_cancer/profile/100x100/18_Samantha.jpg</picture>
+		<age>38</age>
+		<lang>English</lang>
+		<phase>In treatment</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Samantha.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/5_samantha.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/7_samantha.html">Challenging emotions</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/4_samantha.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/8_samantha.html">Finding and sharing information</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/6_samantha.html">Messages to others</interview>
+		</interviews>
+	</person>
+	<person name="Annie">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>37</age>
+		<lang>French</lang>
+		<phase>Remission</phase>
+		<time>2</time>
+		<description>2 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Annie.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/4_annie_audio.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/1_annie_audio.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/17_annie_audio.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/2_annie_audio.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/9_annie_audio.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/3_annie_audio.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/7_annie_audio.html">Follow-up care and the risk of recurrence</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/2_annie_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+		</interviews>
+	</person>
+	<person name="Malika">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>37</age>
+		<lang>French</lang>
+		<phase>In treatment</phase>
+		<time>2</time>
+		<description>2 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Malika.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/4_malika_audio.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/9_malika_audio.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/4_malika_audio.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/1_malika_audio.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/8_malika_audio.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/13_malika_audio.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/3_malika_audio.html">Messages to others</interview>
+		</interviews>
+	</person>
+	<person name="Aliza">
+		<picture>/en/breast_cancer/profile/100x100/21_Aliza.jpg</picture>
+		<age>75</age>
+		<lang>French</lang>
+		<phase>Remission</phase>
+		<time>2</time>
+		<description>2 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Aliza.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/2_aliza.html">Physical activity and diet changes</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/10_aliza.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/9_aliza.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/1_aliza.html">Messages to others</interview>
+		</interviews>
+	</person>
+	<person name="Kathryn">
+		<picture>/en/breast_cancer/profile/100x100/22_Kathryn.jpg</picture>
+		<age>65</age>
+		<lang>English</lang>
+		<phase>Metastatic Cancer</phase>
+		<another_phase>Recurring breast cancer</another_phase>
+		<time>12</time>
+		<description>12 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Kathryn.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/5_kathryn.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/14_kathryn.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/8_kathryn.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/2_kathryn_audio.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/8_kathryn.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/1_kathryn.html">Challenging emotions</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/7_kathryn.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/9_kathryn.html">Finding and sharing information</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/5_kathryn.html">Recurrent and metastatic (advanced) breast cancer </interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/6_kathryn.html">Recurrent and metastatic (advanced) breast cancer </interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/11_kathryn.html">Recurrent and metastatic (advanced) breast cancer </interview>
+		</interviews>
+	</person>
+	<person name="Carol">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>45</age>
+		<lang>English</lang>
+		<phase>In treatment</phase>
+		<time>1</time>
+		<description>Recently diagnosed</description>
+		<profile>/en/breast_cancer/profile/Carol.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/4_carol_audio.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/5_carol_audio.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/5_carol_audio.html">Physical activity and diet changes</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/7_carol_audio.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/11_carol_audio.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/5_carol_audio.html">Finding and sharing information</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/9_carol_audio.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Nalie">
+		<picture>/en/breast_cancer/profile/100x100/24_Nalie.jpg</picture>
+		<age>25</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>2</time>
+		<description>2 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Nalie.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/10_nalie.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/3_nalie.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/3_nalie.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/8_nalie.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/9_nalie.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/6_nalie.html">Physical activity and diet changes</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/15_preserving_fertility/2_nalie.html">Preserving fertility</interview>
+		</interviews>
+	</person>
+	<person name="Isla">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>47</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>2</time>
+		<description>2 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Isla.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/6_isla_audio.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/10_isla_audio.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/12_isla_audio.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/1_isla_audio.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/7_isla_audio.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/5_isla_audio.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/9_isla_audio.html">Work and finances</interview>
+		</interviews>
+	</person>
+	<person name="Naoual">
+		<picture>/en/breast_cancer/profile/100x100/26_Naoual.jpg</picture>
+		<age>42</age>
+		<lang>Naoual</lang>
+		<phase>Remission</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Naoual.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/9_naoual.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/7_naoual.html">Physical activity and diet changes</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/12_naoual.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/5_naoual.html">Challenging emotions</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/6_naoual.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/10_naoual.html">How it affects family and friends</interview>
+		</interviews>
+	</person>
+	<person name="Christa">
+		<picture>/en/breast_cancer/profile/100x100/images/00_audio.jpg</picture>
+		<age>41</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>7</time>
+		<description>7 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Christa.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/9_christa_audio.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/02_testing_and_diagnosis/6_christa_audio.html">Testing and diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/10_christa_audio.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/7_christa_audio.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/3_christa_audio.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/4_christa_audio.html">Challenging emotions</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/20_effects_on_family_and_friends/3_christa_audio.html">How it affects family and friends</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/2_christa_audio.html">Messages to others</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/3_christa_audio.html">Follow-up care and the risk of recurrence</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/1_christa_audio.html">Recurrent and metastatic (advanced) breast cancer </interview>
+		</interviews>
+	</person>
+	<person name="Christine">
+		<picture>/en/breast_cancer/profile/100x100/28_Christine.jpg</picture>
+		<age>53</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Christine.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/6_christine.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/14_impact_on_work_and_finances/6_christine.html">Work and finances</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/9_christine.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/4_christine.html">Finding and sharing information</interview>
+		</interviews>
+	</person>
+	<person name="Jocelyn">
+		<picture>/en/breast_cancer/profile/100x100/29_Jocelyn.jpg</picture>
+		<age>31</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>3</time>
+		<description>3 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Jocelyn.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/1_jocelyn.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/4_jocelyn.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/10_jocelyn.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/15_preserving_fertility/4_jocelyn.html">Preserving fertility</interview>
+			 <interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/13_jocelyn.html">Sexuality, femininity and intimacy</interview>
+			 <interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/11_jocelyn.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Margaret">
+		<picture>/en/breast_cancer/profile/100x100/30_Margaret.jpg</picture>
+		<age>68</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>9</time>
+		<description>9 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Margaret.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/7_margaret.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/13_margaret.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/4_margaret.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/23_treatment_for_lymphedemia/4_margaret.html">Treatment for lymphedema</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/2_margaret.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Susanne">
+		<picture>/en/breast_cancer/profile/100x100/31_Susanne.jpg</picture>
+		<age>47</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>6</time>
+		<description>6 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Susanne.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/3_susanne.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/2_susanne.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/6_susanne.html">Radiation therapy</interview>
+			 <interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/11_susanne.html">Sexuality, femininity and intimacy</interview>
+			 <interview url="/en/breast_cancer/emotional_health/interviews/18a_challenging_emotions/6_susanne.html">Challenging emotions</interview>
+		</interviews>
+	</person>
+	<person name="May-Lie">
+		<picture>/en/breast_cancer/profile/100x100/images/00_text.jpg</picture>
+		<age>59</age>
+		<lang>French</lang>
+		<phase>Remission</phase>
+		<time>5</time>
+		<description>5 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/May_Lie.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/2_may_lie_text.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/04_treatment_pathways/8_may_lie_text.html">Perspectives on treatment pathways</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/4_may_lie_text.html">Surgery</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/13_diet_changes_and_exercise/3_may_lie_text.html">Physical activity and diet changes</interview>
+			 <interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/8_may_lie_text.html">Sexuality, femininity and intimacy</interview>
+			 <interview url="/en/breast_cancer/after_active_treatment/interviews/26_testing_and_diagnosis_for_recurrent_cancer/5_may_lie_text.html">Follow-up care and the risk of recurrence</interview>
+		</interviews>
+	</person>
+	<person name="Ginette">
+		<picture>/en/breast_cancer/profile/100x100/33_Ginette.jpg</picture>
+		<age>64</age>
+		<lang>French</lang>
+		<phase>Remission</phase>
+		<time>9</time>
+		<description>9 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Ginette.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/6_ginette.html">Surgery</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/1_ginette.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/3_ginette.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/6_ginette.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/8_ginette.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/9_ginette.html">Troubling long-term effects of treatment</interview>
+			
+		</interviews>
+	</person>
+	<person name="Julie">
+		<picture>/en/breast_cancer/profile/100x100/34_Julie.jpg</picture>
+		<age>35</age>
+		<lang>French</lang>
+		<phase>Remission</phase>
+		<time>5</time>
+		<description>5 years since diagnosis</description>
+		<profile>/en/breast_cancer/profile/Julie.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/5_julie.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/discovery/interviews/03_understanding_the_diagnosis/7_julie.html">Understanding the diagnosis</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/10_complementary_treatments/9_julie.html">Alternative and complementary therapies</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/1_julie.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/15_preserving_fertility/3_julie.html">Preserving fertility</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/15_preserving_fertility/6_julie.html">Preserving fertility</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/16_children_and_cancer/6_julie.html">Talking to children about cancer</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/3_julie.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/7_julie.html">Recurrent and metastatic (advanced) breast cancer </interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/27_treatment_for_metastasized_cancer/10_julie.html">Recurrent and metastatic (advanced) breast cancer </interview>
+		</interviews>
+	</person>
+	<person name="Laurie">
+		<picture>/en/breast_cancer/profile/100x100/35_Laurie.jpg</picture>
+		<age>56</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>1</time>
+		<description>Recently diagnosed</description>
+		<profile>/en/breast_cancer/profile/Laurie.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/discovery/interviews/01_first_symptoms/2_laurie.html">First symptoms</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/6_laurie.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/06_reconstruction_not/10_laurie.html">Reconstruction surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/3_laurie.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/3_laurie.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/9_laurie.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/09_endocrine/2_laurie.html">Endocrine (hormone) therapy</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/2_laurie.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/11_managing_within_the_health_system/5_laurie.html">Managing within the health care system</interview>
+			<interview url="/en/breast_cancer/after_active_treatment/interviews/25_long_term_side_effects/1_laurie.html">Troubling long-term effects of treatment</interview>
+		</interviews>
+	</person>
+	<person name="Nadia B">
+		<picture>/en/breast_cancer/profile/100x100/36_NadiaB.jpg</picture>
+		<age>56</age>
+		<lang>English</lang>
+		<phase>Remission</phase>
+		<time>1</time>
+		<description>Recently diagnosed</description>
+		<profile>/en/breast_cancer/profile/NadiaB.aspx</profile>
+		<interviews>
+			<interview url="/en/breast_cancer/treatment/interviews/05_surgery/3_nadiaB.html">Surgery</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/07_chemotherapy/8_nadiaB.html">Chemotherapy</interview>
+			<interview url="/en/breast_cancer/treatment/interviews/08_radiation/8_nadiaB.html">Radiation therapy</interview>
+			<interview url="/en/breast_cancer/managing_your_illness/interviews/12_relating_to_health_professionals/10_nadiaB.html">Relating to health care professionals</interview>
+			<interview url="/en/breast_cancer/body_and_life/interviews/17_intimacy_and_sexuality/9_nadiaB.html">Sexuality, femininity and intimacy</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/18_coping_strategies/7_nadiaB.html">Coping strategies</interview>
+			<interview url="/en/breast_cancer/emotional_health/interviews/19_positive_effects_self/3_nadiaB.html">Positive effects on self</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/21_finding_and_sharing_information/1_nadiaB.html">Finding and sharing information</interview>
+			<interview url="/en/breast_cancer/support_and_advice/interviews/22_messages_to_patients/5_nadiaB.html">Messages to others</interview>
+		</interviews>
+	</person>
+	
+</people>

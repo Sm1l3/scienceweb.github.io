@@ -1,0 +1,51 @@
+
+
+.footerContainer { background:url(../../en/images/footer.png) repeat-x; height:81px; width:100%; z-index:9996; min-width:1000px; }
+.push { height:81px; }
+
+.partners { float:left; height:81px; overflow:hidden; }
+.partnersLogo { float:left; margin:0 15px 0 0; padding:8px 0 0 20px; }
+.partnersList { float:left; list-style:none; margin:0; padding:0; }
+.partnersItem { float:left;  margin:2px 0 0 0; }
+.partnersItem img { height:77px; }
+.mainNav { float:right;   }
+.mainNavA { display:block; height:18px; }
+.triangle { display:none; }
+
+.mainNavItem { float:left; background:url(../../en/images/menu/sepa.png) no-repeat top left; margin:5px 0 0 0; padding:28px 18px; }
+#mainHome { background:url(../../en/images/menu/home.png) no-repeat; width:22px; }
+#mainModules { background:url(../../en/images/menu/modules.png) no-repeat; width:63px; }
+#mainAbout { background:url(../../en/images/menu/about.png) no-repeat; width:69px; }
+#mainHowto{ background:url(../../en/images/menu/howto.png) no-repeat; width:84px; }
+#mainContact { background:url(../../en/images/menu/contact.png) no-repeat; width:56px; }
+
+#mainHome:hover { background:url(../../en/images/menu/home_o.png) no-repeat; }
+#mainModules:hover { background:url(../../en/images/menu/modules_o.png) no-repeat; }
+#mainAbout:hover { background:url(../../en/images/menu/about_o.png) no-repeat; }
+#mainHowto:hover{ background:url(../../en/images/menu/howto_o.html) no-repeat; }
+#mainContact:hover { background:url(../../en/images/menu/contact_o.png) no-repeat; }
+
+#mainContactFR { background:url(../../fr/images/menu/contact.png) no-repeat; width:139px; }
+#mainModulesFR { background:url(../../fr/images/menu/modules.png) no-repeat; width:63px; }
+#mainAboutFR { background:url(../../fr/images/menu/about.png) no-repeat; width:149px; }
+
+#mainContactFR:hover { background:url(../../fr/images/menu/contact_o.png) no-repeat;  }
+#mainModulesFR:hover { background:url(../../fr/images/menu/modules_o.png) no-repeat;  }
+#mainAboutFR:hover { background:url(../../fr/images/menu/about_o.png) no-repeat;}
+
+.footerNav { float:right; text-align:right; padding:15px 25px; }
+.footerNavList { float:right; }
+.footerNavItem { float:left; margin:0px; padding:0; }
+.footerSepa { margin:0 10px; }
+.footerNavA { color:#6f7373; font-family:Arial; font-size:11px; text-decoration:none; }
+.copyright { padding:0px 0 0 0; font-family:Arial; font-size:11px; text-decoration:none; color:#6f7373;}
+
+.dropdown { position:absolute; z-index:1000; margin:0 0 0 -20px; }
+.dropTop { height:13px; background:url(../../en/images/menu/drop_top.png) no-repeat; }
+.dropContent { min-height:10px; background:#454099; list-style:none; margin:0; padding:0 14px 10px 10px;  }
+.dropItem { margin:0; padding:6px 0; background:url(../../en/images/menu/drop_sepa.gif) repeat-x bottom; }
+.dropItemLast { border-bottom:none;}
+.dropA { font-family:Arial; font-size:14px; color:#ffffff; text-decoration:none; }
+.dropA:hover { color:#9a6baf;}
+
+.feedback { position:fixed; display:block; right:0; bottom:100px; }
